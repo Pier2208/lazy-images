@@ -1,0 +1,11 @@
+img {
+    max-width: 100%;
+    display: block;
+    margin-bottom: 2rem;
+    width: 800px;
+}
+
+
+section > img:first-of-type {
+    margin-bottom: 800px;
+}
